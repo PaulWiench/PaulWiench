@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there, I'm Paul!
+
+I'm a Deep and Reinforcement Learning enthusiast, always on the lookout for a new challenge.
+
+My coding besties:
+> ![Static Badge](https://img.shields.io/badge/System-Linux-blue?style=flat&logo=linux&color=%23FCC624) \
+> ![Static Badge](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&color=%233776AB) \
+> ![Static Badge](https://img.shields.io/badge/Framework-PyTorch-blue?style=flat&logo=pytorch&color=%23EE4C2C)
+
 
 <!--
 **PaulWiench/PaulWiench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
