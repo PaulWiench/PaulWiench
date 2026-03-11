@@ -7,18 +7,49 @@ My coding besties:
 > ![Static Badge](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&color=%233776AB) \
 > ![Static Badge](https://img.shields.io/badge/Framework-PyTorch-blue?style=flat&logo=pytorch&color=%23EE4C2C)
 
+## Projects
 
-<!--
-**PaulWiench/PaulWiench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Semantic Latent Video Synthesis
 
-Here are some ideas to get you started:
+This project combines latent video diffusion with SPADE modules into a novel approach to semantically guided video generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Repository: [semantic-latent-video-synthesis](https://github.com/PaulWiench/semantic-latent-video-diffusion) \
+> Tech Stack:
+> - Python
+> - PyTorch - PyTorch Lightning
+> - NumPy
+> - Weights & Biases
+> - Hydra
+
+### Papertail
+
+This project presents a CLI tool to browse through arxiv papers, chat with them, and generate AI overviews of new discoveries.
+
+> Repository: [papertail](https://github.com/PaulWiench/papertail?tab=readme-ov-file) \
+> Tech Stack:
+> - Python
+> - LangChain
+> - Hugging Face transformers
+> - Textual
+> - Requests
+
+### Ascii City
+
+This project provides an open API to fetch an ascii-art 3D render of any location on earth.
+
+> Repository: [ascii-city](https://github.com/PaulWiench/ascii-city) \
+> Tech Stack:
+> - Python
+> - FastAPI
+> - Numpy
+> - AWS - Lambda + APIGateway + DynamoDB - Boto3
+> - Requests
+
+### Psydra
+
+This project provides a modern stopwatch app.
+
+> Repository: [psydra](https://github.com/PaulWiench/psydra) \
+> Tech Stack:
+> - C++
+> - Qt - QML
