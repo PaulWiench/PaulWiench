@@ -11,9 +11,9 @@ My coding besties:
 
 ### Semantic Latent Video Synthesis
 
-<img src=data/semantic_latent_video_diffusion.gif width=400>
-
 This project combines latent video diffusion with SPADE modules into a novel approach to semantically guided video generation.
+
+<img src=data/semantic_latent_video_diffusion.gif width=400>
 
 > Repository: [semantic-latent-video-synthesis](https://github.com/PaulWiench/semantic-latent-video-diffusion) \
 > Tech Stack:
@@ -25,9 +25,9 @@ This project combines latent video diffusion with SPADE modules into a novel app
 
 ### Papertail
 
-<img src=data/papertail.gif width=400>
-
 This project presents a CLI tool to browse through arxiv papers, chat with them, and generate AI overviews of new discoveries.
+
+<img src=data/papertail.gif width=400>
 
 > Repository: [papertail](https://github.com/PaulWiench/papertail?tab=readme-ov-file) \
 > Tech Stack:
@@ -39,9 +39,9 @@ This project presents a CLI tool to browse through arxiv papers, chat with them,
 
 ### Ascii City
 
-<img src=data/ascii_city.gif width=400>
-
 This project provides an open API to fetch an ascii-art 3D render of any location on earth.
+
+<img src=data/ascii_city.gif width=400>
 
 > Repository: [ascii-city](https://github.com/PaulWiench/ascii-city) \
 > Tech Stack:
@@ -53,9 +53,9 @@ This project provides an open API to fetch an ascii-art 3D render of any locatio
 
 ### Psydra
 
-<img src=data/psydra.gif width=400>
-
 This project provides a modern stopwatch app.
+
+<img src=data/psydra.gif width=400>
 
 > Repository: [psydra](https://github.com/PaulWiench/psydra) \
 > Tech Stack:
