@@ -11,6 +11,8 @@ My coding besties:
 
 ### Semantic Latent Video Synthesis
 
+<img src=data/semantic_latent_video_diffusion.gif width=400>
+
 This project combines latent video diffusion with SPADE modules into a novel approach to semantically guided video generation.
 
 > Repository: [semantic-latent-video-synthesis](https://github.com/PaulWiench/semantic-latent-video-diffusion) \
@@ -22,6 +24,8 @@ This project combines latent video diffusion with SPADE modules into a novel app
 > - Hydra
 
 ### Papertail
+
+<img src=data/papertail.gif width=400>
 
 This project presents a CLI tool to browse through arxiv papers, chat with them, and generate AI overviews of new discoveries.
 
@@ -35,6 +39,8 @@ This project presents a CLI tool to browse through arxiv papers, chat with them,
 
 ### Ascii City
 
+<img src=data/ascii_city.gif width=400>
+
 This project provides an open API to fetch an ascii-art 3D render of any location on earth.
 
 > Repository: [ascii-city](https://github.com/PaulWiench/ascii-city) \
@@ -46,6 +52,8 @@ This project provides an open API to fetch an ascii-art 3D render of any locatio
 > - Requests
 
 ### Psydra
+
+<img src=data/psydra.gif width=400>
 
 This project provides a modern stopwatch app.
 
